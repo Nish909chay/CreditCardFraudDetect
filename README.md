@@ -105,13 +105,11 @@ I’ve documented my journey here — both the code and the concepts I discovere
 
 ---
 
-## 🧠 Final Thoughts
+##  Final Thoughts
 
 This project helped me realize that real-world data isn’t always clean or balanced, and that picking a model is just one part of the pipeline. Preprocessing, visualization, understanding distributions — these are all equally important. If you're just getting started like I was, don’t rush to the model — understand your data first.
 
----
 
-## 🤝 Connect With Me
 
-If you’re working on something similar or have feedback, feel free to reach out!
+
 
