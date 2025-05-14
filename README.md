@@ -1,6 +1,6 @@
-# 🧠 Predictive Modeling with Logistic Regression and PCA – A Deep Dive
+#  Predictive Modeling with Logistic Regression and PCA – A Deep Dive
 
-## 📝 Overview
+##  Overview
 
 This project was born out of a simple curiosity: "Can I use basic machine learning techniques to predict outcomes on real-world data?" I started exploring a dataset on Kaggle and ended up diving deeper than expected — into unbalanced datasets, dimensionality reduction, and deep learning concepts. Along the way, I learned not just **how** to build a model, but **why** certain steps matter.
 
@@ -8,7 +8,7 @@ I’ve documented my journey here — both the code and the concepts I discovere
 
 ---
 
-## 🚀 What This Project Does
+## What This Project Does
 
 - Loads and processes a real-world dataset
 - Handles missing values and imbalanced classes
@@ -20,7 +20,25 @@ I’ve documented my journey here — both the code and the concepts I discovere
 
 ---
 
-## 🔍 Key Libraries Used
+## Kaggle
+Kaggle is more than a dataset repository: Initially, I used it only to get datasets, but I learned it's also a vibrant community for data science competitions, notebooks, discussions, and code sharing.
+
+Kernels (now called Notebooks): You can write and share your code directly on the platform, collaborate with others, and even learn from top-performing notebooks.
+
+Evaluation Metrics: I discovered how Kaggle scores model performance using public and private leaderboards – very useful for benchmarking.
+
+---
+
+## Google Colab
+Cloud-based Python environment: No setup, no installations – just write code in your browser.
+
+Free GPU/TPU access: I learned that Colab supports deep learning by offering free hardware accelerators for faster training.
+
+Integration with Google Drive: I could save, access, and share notebooks easily across devices.
+
+---
+
+## Key Libraries Used
 
 - `pandas` – for working with DataFrames
 - `numpy` – for numerical operations
@@ -29,9 +47,9 @@ I’ve documented my journey here — both the code and the concepts I discovere
 
 ---
 
-## 💡 What I Learned
+##  What I Learned
 
-### ✅ Practical Skills
+###  Practical Skills
 
 - Handling **unbalanced datasets** using undersampling
 - Using **Logistic Regression** and evaluating its performance
@@ -43,7 +61,7 @@ I’ve documented my journey here — both the code and the concepts I discovere
 
 ---
 
-## 🤯 Topics I Didn’t Know Existed (and What They Mean)
+##  Topics I Didn’t Know Existed (and What They Mean)
 
 ### 1. **Unbalanced Dataset**
 - **Technical**: A dataset where the classes (labels) are not equally represented.
